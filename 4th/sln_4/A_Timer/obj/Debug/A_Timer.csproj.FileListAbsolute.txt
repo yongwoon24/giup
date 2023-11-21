@@ -1,0 +1,10 @@
+D:\3A_Study\4th\sln_4\A_Timer\bin\Debug\A_Timer.exe.config
+D:\3A_Study\4th\sln_4\A_Timer\bin\Debug\A_Timer.exe
+D:\3A_Study\4th\sln_4\A_Timer\bin\Debug\A_Timer.pdb
+D:\3A_Study\4th\sln_4\A_Timer\obj\Debug\A_Timer.csproj.AssemblyReference.cache
+D:\3A_Study\4th\sln_4\A_Timer\obj\Debug\A_Timer.Form1.resources
+D:\3A_Study\4th\sln_4\A_Timer\obj\Debug\A_Timer.Properties.Resources.resources
+D:\3A_Study\4th\sln_4\A_Timer\obj\Debug\A_Timer.csproj.GenerateResource.cache
+D:\3A_Study\4th\sln_4\A_Timer\obj\Debug\A_Timer.csproj.CoreCompileInputs.cache
+D:\3A_Study\4th\sln_4\A_Timer\obj\Debug\A_Timer.exe
+D:\3A_Study\4th\sln_4\A_Timer\obj\Debug\A_Timer.pdb

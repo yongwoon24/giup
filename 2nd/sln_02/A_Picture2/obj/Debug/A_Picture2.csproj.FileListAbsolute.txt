@@ -1,0 +1,10 @@
+D:\3A_Study\2nd\sln_02\A_Picture2\bin\Debug\A_Picture2.exe.config
+D:\3A_Study\2nd\sln_02\A_Picture2\bin\Debug\A_Picture2.exe
+D:\3A_Study\2nd\sln_02\A_Picture2\bin\Debug\A_Picture2.pdb
+D:\3A_Study\2nd\sln_02\A_Picture2\obj\Debug\A_Picture2.csproj.AssemblyReference.cache
+D:\3A_Study\2nd\sln_02\A_Picture2\obj\Debug\A_Picture2.Form1.resources
+D:\3A_Study\2nd\sln_02\A_Picture2\obj\Debug\A_Picture2.Properties.Resources.resources
+D:\3A_Study\2nd\sln_02\A_Picture2\obj\Debug\A_Picture2.csproj.GenerateResource.cache
+D:\3A_Study\2nd\sln_02\A_Picture2\obj\Debug\A_Picture2.csproj.CoreCompileInputs.cache
+D:\3A_Study\2nd\sln_02\A_Picture2\obj\Debug\A_Picture2.exe
+D:\3A_Study\2nd\sln_02\A_Picture2\obj\Debug\A_Picture2.pdb

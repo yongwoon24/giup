@@ -1,0 +1,11 @@
+D:\3A_Study\4th\sln_4\B_Progress\bin\Debug\B_Progress.exe.config
+D:\3A_Study\4th\sln_4\B_Progress\bin\Debug\B_Progress.exe
+D:\3A_Study\4th\sln_4\B_Progress\bin\Debug\B_Progress.pdb
+D:\3A_Study\4th\sln_4\B_Progress\obj\Debug\B_Progress.csproj.AssemblyReference.cache
+D:\3A_Study\4th\sln_4\B_Progress\obj\Debug\B_Progress.csproj.SuggestedBindingRedirects.cache
+D:\3A_Study\4th\sln_4\B_Progress\obj\Debug\B_Progress.Form1.resources
+D:\3A_Study\4th\sln_4\B_Progress\obj\Debug\B_Progress.Properties.Resources.resources
+D:\3A_Study\4th\sln_4\B_Progress\obj\Debug\B_Progress.csproj.GenerateResource.cache
+D:\3A_Study\4th\sln_4\B_Progress\obj\Debug\B_Progress.csproj.CoreCompileInputs.cache
+D:\3A_Study\4th\sln_4\B_Progress\obj\Debug\B_Progress.exe
+D:\3A_Study\4th\sln_4\B_Progress\obj\Debug\B_Progress.pdb

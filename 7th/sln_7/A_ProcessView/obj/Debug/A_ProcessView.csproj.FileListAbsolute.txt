@@ -1,0 +1,11 @@
+D:\3A_Study\7th\sln_7\A_ProcessView\bin\Debug\A_ProcessView.exe.config
+D:\3A_Study\7th\sln_7\A_ProcessView\bin\Debug\A_ProcessView.exe
+D:\3A_Study\7th\sln_7\A_ProcessView\bin\Debug\A_ProcessView.pdb
+D:\3A_Study\7th\sln_7\A_ProcessView\obj\Debug\A_ProcessView.csproj.AssemblyReference.cache
+D:\3A_Study\7th\sln_7\A_ProcessView\obj\Debug\A_ProcessView.csproj.SuggestedBindingRedirects.cache
+D:\3A_Study\7th\sln_7\A_ProcessView\obj\Debug\A_ProcessView.Form1.resources
+D:\3A_Study\7th\sln_7\A_ProcessView\obj\Debug\A_ProcessView.Properties.Resources.resources
+D:\3A_Study\7th\sln_7\A_ProcessView\obj\Debug\A_ProcessView.csproj.GenerateResource.cache
+D:\3A_Study\7th\sln_7\A_ProcessView\obj\Debug\A_ProcessView.csproj.CoreCompileInputs.cache
+D:\3A_Study\7th\sln_7\A_ProcessView\obj\Debug\A_ProcessView.exe
+D:\3A_Study\7th\sln_7\A_ProcessView\obj\Debug\A_ProcessView.pdb

@@ -1,0 +1,11 @@
+D:\3A_Study\4th\sln_4\B_FontControl\bin\Debug\B_FontControl.exe.config
+D:\3A_Study\4th\sln_4\B_FontControl\bin\Debug\B_FontControl.exe
+D:\3A_Study\4th\sln_4\B_FontControl\bin\Debug\B_FontControl.pdb
+D:\3A_Study\4th\sln_4\B_FontControl\obj\Debug\B_FontControl.csproj.AssemblyReference.cache
+D:\3A_Study\4th\sln_4\B_FontControl\obj\Debug\B_FontControl.csproj.SuggestedBindingRedirects.cache
+D:\3A_Study\4th\sln_4\B_FontControl\obj\Debug\B_FontControl.Form1.resources
+D:\3A_Study\4th\sln_4\B_FontControl\obj\Debug\B_FontControl.Properties.Resources.resources
+D:\3A_Study\4th\sln_4\B_FontControl\obj\Debug\B_FontControl.csproj.GenerateResource.cache
+D:\3A_Study\4th\sln_4\B_FontControl\obj\Debug\B_FontControl.csproj.CoreCompileInputs.cache
+D:\3A_Study\4th\sln_4\B_FontControl\obj\Debug\B_FontControl.exe
+D:\3A_Study\4th\sln_4\B_FontControl\obj\Debug\B_FontControl.pdb

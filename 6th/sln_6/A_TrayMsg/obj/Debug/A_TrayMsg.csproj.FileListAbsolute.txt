@@ -1,0 +1,11 @@
+D:\3A_Study\6th\sln_6\A_TrayMsg\bin\Debug\A_TrayMsg.exe.config
+D:\3A_Study\6th\sln_6\A_TrayMsg\bin\Debug\A_TrayMsg.exe
+D:\3A_Study\6th\sln_6\A_TrayMsg\bin\Debug\A_TrayMsg.pdb
+D:\3A_Study\6th\sln_6\A_TrayMsg\obj\Debug\A_TrayMsg.csproj.AssemblyReference.cache
+D:\3A_Study\6th\sln_6\A_TrayMsg\obj\Debug\A_TrayMsg.Form1.resources
+D:\3A_Study\6th\sln_6\A_TrayMsg\obj\Debug\A_TrayMsg.Form2.resources
+D:\3A_Study\6th\sln_6\A_TrayMsg\obj\Debug\A_TrayMsg.Properties.Resources.resources
+D:\3A_Study\6th\sln_6\A_TrayMsg\obj\Debug\A_TrayMsg.csproj.GenerateResource.cache
+D:\3A_Study\6th\sln_6\A_TrayMsg\obj\Debug\A_TrayMsg.csproj.CoreCompileInputs.cache
+D:\3A_Study\6th\sln_6\A_TrayMsg\obj\Debug\A_TrayMsg.exe
+D:\3A_Study\6th\sln_6\A_TrayMsg\obj\Debug\A_TrayMsg.pdb

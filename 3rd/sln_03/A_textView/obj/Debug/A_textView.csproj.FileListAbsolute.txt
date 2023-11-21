@@ -1,0 +1,11 @@
+D:\3A_Study\3rd\sln_03\A_textView\bin\Debug\A_textView.exe.config
+D:\3A_Study\3rd\sln_03\A_textView\bin\Debug\A_textView.exe
+D:\3A_Study\3rd\sln_03\A_textView\bin\Debug\A_textView.pdb
+D:\3A_Study\3rd\sln_03\A_textView\obj\Debug\A_textView.csproj.AssemblyReference.cache
+D:\3A_Study\3rd\sln_03\A_textView\obj\Debug\A_textView.csproj.SuggestedBindingRedirects.cache
+D:\3A_Study\3rd\sln_03\A_textView\obj\Debug\A_textView.Form1.resources
+D:\3A_Study\3rd\sln_03\A_textView\obj\Debug\A_textView.Properties.Resources.resources
+D:\3A_Study\3rd\sln_03\A_textView\obj\Debug\A_textView.csproj.GenerateResource.cache
+D:\3A_Study\3rd\sln_03\A_textView\obj\Debug\A_textView.csproj.CoreCompileInputs.cache
+D:\3A_Study\3rd\sln_03\A_textView\obj\Debug\A_textView.exe
+D:\3A_Study\3rd\sln_03\A_textView\obj\Debug\A_textView.pdb
